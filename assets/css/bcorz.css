@@ -4254,7 +4254,8 @@ ul {
   width: 193px;
   height: 193px;
   border-radius: 50%;
-  background-color: #fdf7f6;
+  /* background-color: #fdf7f6; */
+  background-color: var(--bcorz-base);
 }
 
 .team-one__img {
@@ -5023,7 +5024,8 @@ ul {
 .blog-one__content {
   position: relative;
   display: block;
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(255, 255, 255); */
+  background-color: var(--bcorz-white);
   box-shadow: 0px 0px 35px 0px rgba(201, 199, 205, 0.35);
   padding: 24px 25px 18px;
 }
