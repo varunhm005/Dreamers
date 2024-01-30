@@ -4048,7 +4048,8 @@ ul {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
   padding: 30px 25px 45px 30px;
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(255, 255, 255); */
+  background-color: var(--bcorz-white);
   box-shadow: 0px 0px 43px 0px rgba(205, 205, 208, 0.35);
 }
 
@@ -4243,6 +4244,7 @@ ul {
   display: block;
   padding: 40px 40px 40px;
   overflow: hidden;
+  background-color: var(--bcorz-white);
 }
 
 .team-one__shape-1 {
