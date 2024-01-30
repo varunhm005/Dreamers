@@ -3473,7 +3473,8 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  background-color: #fcf9f9;
+  /* background-color: #fcf9f9; */
+  background-color: var(--bcorz-white);
   padding: 15px 25px 15px;
   border-radius: 3px;
   margin-top: 57px;
@@ -3492,7 +3493,7 @@ ul {
   justify-content: center;
   width: 80px;
   height: 80px;
-  background-color: var(--bcorz-white);
+  background-color: var(--bcorz-black);
   border-radius: 50%;
   font-size: 45px;
   color: var(--bcorz-base);
@@ -4345,7 +4346,8 @@ ul {
   position: relative;
   width: 45px;
   height: 50px;
-  background-color: #d3d0d0;
+  /* background-color: #d3d0d0; */
+  background-color: var(--bcorz-black);
   align-items: center;
   justify-content: center;
   display: flex;
