@@ -20,9 +20,10 @@
   --bcorz-font: 'Manrope', sans-serif;
   --bcorz-font-two: 'Nunito', sans-serif;
   --bcorz-reey-font: "reeyregular";
-  --bcorz-white: #ffffff;
+  --bcorz-white: #bbeef1;
+  --bcorz-sandal: #FDF5DF;
   --bcorz-white-rgb: 255, 255, 255;
-  --bcorz-base: #f94c30;
+  --bcorz-base: #f92cb5;
   --bcorz-base-rgb: 249, 76, 48;
   --bcorz-black: #060606;
   --bcorz-black-rgb: 6, 6, 6;
@@ -3192,6 +3193,7 @@ ul {
   position: relative;
   display: block;
   padding-top: 120px;
+  background-color: var(--bcorz-sandal);
 }
 
 .intro-list-one .row {
@@ -3263,6 +3265,7 @@ ul {
   display: block;
   padding: 90px 0 120px;
   z-index: 1;
+  background-color: var(--bcorz-sandal);
 }
 
 .about-one__shape-1 {
@@ -3561,6 +3564,7 @@ ul {
   counter-reset: count;
   overflow: hidden;
   padding: 120px 0 120px;
+  background-color: var(--bcorz-sandal);
 }
 
 .services-one .container {
@@ -3740,6 +3744,7 @@ ul {
   display: block;
   padding: 120px 0 120px;
   z-index: 1;
+  background-color: var(--bcorz-sandal);
 }
 
 .why-choose-one__shape-2 {
@@ -3923,7 +3928,7 @@ ul {
 .project-one {
   position: relative;
   display: block;
-  background-color: #8e2c1c;
+  background-color: var(--bcorz-base);
   padding: 120px 0 181px;
   z-index: 1;
 }
@@ -4191,7 +4196,7 @@ ul {
 .team-one {
   position: relative;
   display: block;
-  background-color: #fdf7f6;
+  background-color: var(--bcorz-sandal);
   padding: 120px 0 90px;
   z-index: 1;
 }
@@ -4658,6 +4663,7 @@ ul {
   padding: 120px 0 120px;
   border-bottom: 1px solid #e6e6e6;
   z-index: 1;
+  background-color: var(--bcorz-sandal);
 }
 
 .testimonial-one__shape-1 {
@@ -4861,6 +4867,7 @@ ul {
   position: relative;
   display: block;
   padding: 120px 0 90px;
+  background-color: var(--bcorz-sandal);
 }
 
 .blog-one .row {
