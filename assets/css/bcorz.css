@@ -26,6 +26,7 @@
   --bcorz-base: #f92cb5;
   --bcorz-base-rgb: 249, 76, 48;
   --bcorz-black: #060606;
+  --bcorz-lightGreen: #5EBEC4;
   --bcorz-black-rgb: 6, 6, 6;
 
 }
@@ -876,7 +877,7 @@ ul {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  background-color: var(--bcorz-white);
+  background-color: var(--bcorz-lightGreen);
   padding: 0 30px;
   border-radius: 3px;
   z-index: 3;
