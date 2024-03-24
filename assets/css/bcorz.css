@@ -6209,7 +6209,7 @@ ul {
 .how-we-works {
   position: relative;
   display: block;
-  padding: 120px 0 0;
+  padding: 120px 0 120px;
   counter-reset: count;
   z-index: 1;
   background-color: var(--bcorz-sandal);
